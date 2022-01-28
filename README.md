@@ -8,4 +8,7 @@ this
 
 Make sure you dont have an extra line, or else you may get an error
 
+Where you can find the videos once they are done installing is in a folder located in the same directory as the .py file, titled "downloads"
+Currently it only supports .mp4 files, I am currently working on making it support .mp3 files too.
+
 This also uses the pytube module, it will say if it cannot import pytube.
