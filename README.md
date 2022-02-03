@@ -10,7 +10,7 @@ Make sure you dont have an extra line, or else you may get an error
 
 Where you can find the videos once they are done installing is in a folder located in the same directory as the .py file, titled "downloads"
 
-This also uses the pytube module, it will say if it cannot import pytube.
+As of version 1.0.2, it will attempt to automatically install pytube if it cannot import it, make sure to have pip working to use this feature.
 
 # Thank you to
 
