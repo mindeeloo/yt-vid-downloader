@@ -16,3 +16,7 @@ As of version 1.0.2, it will attempt to automatically install pytube if it canno
 
 Geeksforgeeks, for providing great tutorials
 pytube, for the great python module
+
+# Other info
+
+If you would like to redistribute this, feel free to, credit would be appreciated
